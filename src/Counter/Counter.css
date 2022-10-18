@@ -1,0 +1,41 @@
+.count{
+    border: 2px solid black;
+    margin: auto;
+    width: 450px;
+    height: 150px;
+    margin-top: 50px;
+    background-color: darkcyan;
+}
+div{
+    text-align: center;
+    margin-top: 20px;
+    color: aliceblue;
+}
+button{
+    margin: 30px;
+}
+.increment{
+    background-color: rgb(27, 97, 54);
+    color: aliceblue;
+}
+button.increment:hover{
+    background-color: aliceblue;
+    color: rgb(27, 97, 54);
+}
+.decrement{
+    background-color: rgb(75, 8, 8);
+    color: aliceblue;
+}
+button.decrement:hover{
+    background-color: aliceblue;
+    color:rgb(75, 8, 8);
+}
+.reset{
+    background-color: cornflowerblue;
+    color: aliceblue;
+}
+button.reset:hover{
+    background-color: aliceblue;
+     color: cornflowerblue;
+    
+}
